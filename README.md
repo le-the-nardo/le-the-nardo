@@ -13,16 +13,14 @@ Talk to me about
 - Backend development using **C#, .NET Core, NodeJs**
 - Database using **Oracle, MySql and SQL Server**
 - Desktop application development using **C#**
-- Mobile application development using **Flutter**
+- Mobile application development using **Flutter and React Native**
 - Creating scalable cloud architecture using **AWS Cloud**
 
-- 🔭 I’m currently working with **App development**
 
-- 🌱 I’m currently learning **App development with Flutter**
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Social Media
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Social Media
 
 <p align="left">
-    <a href="https://github.com/leozeza"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-    <a href="https://linkedin.com/in/leonardoggomes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>  <a href="https://open.spotify.com/user/leozeza?si=5uKCTzSvSxaQfYLVDX4ehQ"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+        <a href="https://github.com/leozeza"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+       <a href="https://linkedin.com/in/leonardoggomes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>      <a href="https://open.spotify.com/user/leozeza?si=5uKCTzSvSxaQfYLVDX4ehQ"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
