@@ -28,4 +28,4 @@ Talk to me about
 
 
 
-<p align="center"> < [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)> </p>
+<div align="center"> [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) </div>
