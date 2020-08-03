@@ -23,9 +23,3 @@ Talk to me about
 <p align="left">
         <a href="https://github.com/leozeza"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
        <a href="https://linkedin.com/in/leonardoggomes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>      <a href="https://open.spotify.com/user/leozeza?si=5uKCTzSvSxaQfYLVDX4ehQ"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-
-
-
-<p align="justify">
-  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-</p>
