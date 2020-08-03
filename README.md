@@ -1,16 +1,16 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
->I'm currently studying Computer Science at São Paulo State University (UNESP), and also working with app development.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Leonardo.</h1>
+I'm currently studying Computer Science at São Paulo State University (UNESP), and also working with app development.
 
 
 - 🔭 I’m currently working with **App development**
 
 - 🌱 I’m currently learning **App development with Flutter**
 
-- 📫 Where to find me
+- 📫 Social Media
 
 <p align="left">
   <a href="https://github.com/leozeza"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="https://linkedin.com/in/leonardoggomes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> </p><a href="https://open.spotify.com/user/leozeza?si=5uKCTzSvSxaQfYLVDX4ehQ"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+  <a href="https://linkedin.com/in/leonardoggomes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a><a href="https://open.spotify.com/user/leozeza?si=5uKCTzSvSxaQfYLVDX4ehQ"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
 
 
