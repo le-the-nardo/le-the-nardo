@@ -26,6 +26,6 @@ Talk to me about
 
 
 
-
-
-<div align="center"> [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) </div>
+<p align="justify">
+  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+</p>
