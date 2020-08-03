@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **LeoZeza/LeoZeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A backend developer from Brazil</h3>
+<h3 align="center">I'm currently studying Computer Science at São Paulo State University (UNESP), and also working with app development.</h3>
 
 - 🔭 I’m currently working with **App development**
 
