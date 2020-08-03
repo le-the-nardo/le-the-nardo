@@ -11,7 +11,7 @@ I'm Leonardo Gomes. I'm from Brazil, and currently studying Computer Science at 
 Talk to me about
 - Front-end development using **HTML, Javascript, CSS, React**
 - Backend development using **C#, .NET Core, NodeJs**
-- Database using **Oracle and MySql**
+- Database using **Oracle, MySql and SQL Server**
 - Desktop application development using **C#**
 - Mobile application development using **Flutter**
 - Creating scalable cloud architecture using **AWS Cloud**
@@ -20,7 +20,7 @@ Talk to me about
 
 - 🌱 I’m currently learning **App development with Flutter**
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Social Media
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Social Media
 
 <p align="left">
     <a href="https://github.com/leozeza"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
