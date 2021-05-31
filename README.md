@@ -16,7 +16,7 @@ Talk to me about
 
 
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Social Media
+## Social Media
 
 <div>
   <a href = "mailto: leoggomes2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
