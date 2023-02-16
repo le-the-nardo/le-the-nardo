@@ -11,8 +11,6 @@ Talk to me about
 - Mobile application development using **Flutter & Dart**
 - Front-end development using **Angular w/ Javascript/Typescript**
 - Database using **SQL Server, Dynamodb, RDS, Oracle **
-- Desktop application development using **C#**
-- Mobile application development using **Flutter**
 - Creating scalable cloud architecture using **AWS Cloud**
 
 
