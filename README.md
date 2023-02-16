@@ -7,9 +7,10 @@ I'm Leonardo Gomes from Brazil, and I'm currently studying Computer Science at S
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript, CSS, React**
-- Backend development using **C#, .NET Core**
-- Database using **Oracle, MySql and SQL Server**
+- Backend development using **C# .NET**
+- Mobile application development using **Flutter & Dart**
+- Front-end development using **Angular w/ Javascript/Typescript**
+- Database using **SQL Server, Dynamodb, RDS, Oracle **
 - Desktop application development using **C#**
 - Mobile application development using **Flutter**
 - Creating scalable cloud architecture using **AWS Cloud**
