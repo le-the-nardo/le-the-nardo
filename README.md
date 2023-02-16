@@ -1,8 +1,6 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm Leonardo Gomes from Brazil, and I'm currently studying Computer Science at São Paulo State University (UNESP), also working with web and app development. Continuously learning who I really am.
-
-
+I'm Leonardo Gomes from Brazil and I'm currently working with web and mobile app development. My background is in Computer Science and I studied at São Paulo State University (UNESP). My education and experience have provided me with a solid foundation in software engineering, and I'm passionate about using my skills to create innovative and effective solutions for clients.
 
 
 ## ⚡ Technologies
