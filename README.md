@@ -8,8 +8,8 @@ Talk to me about
 - Backend development using **C# .NET**
 - Mobile application development using **Flutter & Dart**
 - Front-end development using **Angular w/ Javascript/Typescript**
-- Database using **SQL Server, Dynamodb, RDS, Oracle **
-- Creating scalable cloud architecture using **AWS Cloud**
+- Database using **SQL Server, Dynamodb, RDS, Oracle and others**
+- Creating scalable cloud architecture using **AWS Cloud and Azure Devops**
 
 
 
