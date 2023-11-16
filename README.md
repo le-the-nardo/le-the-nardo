@@ -5,7 +5,7 @@ I'm Leonardo Gomes from Brazil and I'm currently working with web and mobile app
 
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **C# .NET**
+- Backend development using **C# .NET** and **NodeJs**
 - Mobile application development using **Flutter & Dart**
 - Front-end development using **Angular w/ Javascript/Typescript**
 - Database using **SQL Server, Dynamodb, RDS, Oracle and others**
